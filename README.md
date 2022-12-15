@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azizhamza-code
-- 👀 I’m interested in deep learning and i like trining neural network 
-- 🌱 I’m currently learning MLops so that I can put my model in production
+-👀 I'm interested in modern data platform stacks, and AWS.
+-🌱 I'm currently learning AWS data analytics and MLOps so that I can put my models into production.
 - 📫 How to reach me https://www.linkedin.com/in/hamza-aziz-005b00162/
 
 <!---
